@@ -1,0 +1,8 @@
+{
+  "foco_minutos": 20,
+  "pausa_curta_minutos": 5,
+  "pausa_longa_minutos": 15,
+  "pomodoros_ate_pausa_longa": 2,
+  "alerta_sonoro": true,
+  "notificacao_desktop": true
+}

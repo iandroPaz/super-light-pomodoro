@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+.pomodoro-state.json
+.pomodoro-state.json.lock
