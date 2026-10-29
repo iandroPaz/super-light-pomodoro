@@ -57,11 +57,11 @@ A mensagem de conclusão sempre aparece no terminal. Notificações e sons depen
 
 ## Atalho opcional
 
-Para digitar menos, adicione ao seu `~/.zshrc` (ajuste o caminho se mover a pasta):
+Para digitar menos, adicione ao seu `~/.zshrc` (substitua `/caminho/para/o/projeto` pelo caminho da sua instalação):
 
 ```sh
 function pomo() {
-  python3 /Users/iandropaz/Developer/Github/super-light-pomodoro/pomodoro.py "$@"
+  python3 "/caminho/para/o/projeto/pomodoro.py" "$@"
 }
 ```
 
