@@ -2,3 +2,5 @@ __pycache__/
 *.py[cod]
 .pomodoro-state.json
 .pomodoro-state.json.lock
+pomodoro-history.json
+pomodoro-history.json.lock
